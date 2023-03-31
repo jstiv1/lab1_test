@@ -8,4 +8,7 @@ public class MyClass {
 		}
 		return x * y;
 	}
+	
+	//note sidenote
+	
 }
